@@ -1,63 +1,114 @@
 <div align="center">
 
-# 👋 Hi, I'm Halil
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:071A2B,50:0D6E8A,100:18A999&section=header&text=Halil%20Can%20Akçay&fontSize=40&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20%26%20Knight%20Online%20Source%20Developer&descSize=17&descAlignY=56"
+  alt="Profile header"
+/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&width=850&lines=Full-Stack+Software+Developer;Knight+Online+Source+Developer;Node.js+%7C+PHP+%7C+Python+%7C+C%2B%2B;MySQL+%7C+PostgreSQL+Database+Developer;Building+Secure+and+Scalable+Solutions"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=18A999&center=true&vCenter=true&width=850&lines=Full-Stack+Software+Developer;Knight+Online+Source+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+PHP+%7C+Python+%7C+C%2B%2B;MySQL+%7C+PostgreSQL+%7C+SQL+Server;Building+Secure+and+Scalable+Solutions"
   alt="Typing animation"
 />
 
+<br><br>
+
+<img
+  src="https://komarev.com/ghpvc/?username=halilcanakcay&label=PROFILE%20VIEWS&color=0D6E8A&style=for-the-badge"
+  alt="Profile views"
+/>
+
+<img
+  src="https://img.shields.io/github/followers/halilcanakcay?label=FOLLOWERS&style=for-the-badge&color=18A999&logo=github&logoColor=white"
+  alt="GitHub followers"
+/>
+
+<img
+  src="https://img.shields.io/badge/FOCUS-FULL--STACK%20DEVELOPMENT-0D6E8A?style=for-the-badge"
+  alt="Full-stack development"
+/>
+
+<img
+  src="https://img.shields.io/badge/OPEN%20SOURCE-ENTHUSIAST-181717?style=for-the-badge&logo=github&logoColor=white"
+  alt="Open-source enthusiast"
+/>
+
+<img
+  src="https://img.shields.io/badge/LOCATION-TÜRKİYE-E30A17?style=for-the-badge&logo=googlemaps&logoColor=white"
+  alt="Location"
+/>
+
+</div>
+
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=halilcanakcay&label=Profile%20Views&color=6c63ff&style=flat-square" alt="Profile views">
-<img src="https://img.shields.io/github/followers/halilcanakcay?label=Followers&style=flat-square&color=6c63ff" alt="Followers">
-<img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-6c63ff?style=flat-square" alt="Focus">
-<img src="https://img.shields.io/badge/Knight%20Online-Source%20Developer-c0392b?style=flat-square" alt="Knight Online Source Developer">
-<img src="https://img.shields.io/badge/Open%20Source-Enthusiast-181717?style=flat-square&logo=github" alt="Open source">
-<img src="https://img.shields.io/badge/Location-Türkiye-E30A17?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
+---
+
+<div align="center">
+
+## 👨‍💻 About Me
+
+I develop modern web applications, backend systems,  
+database-driven platforms, and game server technologies.
+
+<br>
+
+🔹 Full-stack development with **React, Next.js, JavaScript, and TypeScript**
+
+🔹 Backend development with **Node.js, PHP, and Python**
+
+🔹 System-level and high-performance development with **C++**
+
+🔹 Database development with **MySQL, PostgreSQL, and Microsoft SQL Server**
+
+🔹 Developing and customizing **Knight Online server source code**
+
+🔹 Building **SaaS platforms, e-commerce systems, APIs, and management panels**
+
+🔹 Creating secure, scalable, maintainable, and performance-focused software
+
+🔹 Exploring, developing, and contributing to open-source projects
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-## 🚀 About Me
+## 🎯 Current Focus
 
-I develop web applications, backend systems, database-driven platforms, and game server technologies.
+<img
+  src="https://img.shields.io/badge/SCALABLE-WEB%20APPLICATIONS-0D6E8A?style=for-the-badge&logo=googlechrome&logoColor=white"
+  alt="Scalable web applications"
+/>
 
-🔹 Full-stack software development with **Node.js, PHP, JavaScript and TypeScript**  
-🔹 Backend and automation development with **Python**  
-🔹 System-level and high-performance development with **C++**  
-🔹 Database development with **MySQL and PostgreSQL**  
-🔹 Developing and customizing **Knight Online server source code**  
-🔹 Working on game server files, databases, tools, launchers, and security systems  
-🔹 Building secure, scalable, maintainable, and performance-focused solutions  
-🔹 Exploring, developing, and contributing to open-source projects  
+<img
+  src="https://img.shields.io/badge/SECURE-BACKEND%20SYSTEMS-18A999?style=for-the-badge&logo=shield&logoColor=white"
+  alt="Secure backend systems"
+/>
 
-</div>
-
----
-
-<div align="center">
-
-## ⚔️ Knight Online Development
-
-<img src="https://img.shields.io/badge/Knight%20Online-Source%20Development-c0392b?style=for-the-badge" alt="Knight Online Source Development">
-<img src="https://img.shields.io/badge/Game%20Server-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Game Server">
-<img src="https://img.shields.io/badge/Database-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-<img src="https://img.shields.io/badge/Launcher-Development-6C63FF?style=for-the-badge" alt="Launcher Development">
+<img
+  src="https://img.shields.io/badge/GAME%20SERVER-SOURCE%20DEVELOPMENT-C0392B?style=for-the-badge&logo=cplusplus&logoColor=white"
+  alt="Game server source development"
+/>
 
 <br><br>
 
-⚔️ Knight Online server source development  
-🛡️ Game server security and guard systems  
-🗄️ Database editing, migration, and optimization  
-🎮 Item, drop, quest, event, and game-system development  
-🚀 Launcher, patch, update, and client-side tools  
-🔧 Server files, source code, and custom system integration  
+🌐 Modern full-stack web applications
+
+⚙️ High-performance backend architectures
+
+🗄️ Database design, migration, and optimization
+
+⚔️ Knight Online source and game-system development
+
+🔐 Secure and maintainable software solutions
 
 </div>
+
+<br>
 
 ---
 
@@ -65,46 +116,112 @@ I develop web applications, backend systems, database-driven platforms, and game
 
 ## 🛠️ Technology Stack
 
-### Languages
+### Programming Languages
 
 <img
-  src="https://skillicons.dev/icons?i=js,ts,nodejs,php,python,cpp&theme=dark"
-  alt="Programming languages"
+  src="https://skillicons.dev/icons?i=js,ts,php,python,cpp&theme=dark"
+  alt="JavaScript, TypeScript, PHP, Python and C++"
 />
 
-### Frontend
+<br><br>
+
+### Frontend Development
 
 <img
-  src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark"
-  alt="Frontend technologies"
+  src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,sass,vite&theme=dark"
+  alt="React, Next.js, HTML, CSS, Tailwind CSS, Sass and Vite"
 />
 
-### Backend
+<br><br>
+
+### Backend Development
 
 <img
   src="https://skillicons.dev/icons?i=nodejs,php,python&theme=dark"
-  alt="Backend technologies"
+  alt="Node.js, PHP and Python"
 />
+
+<br><br>
 
 ### Databases
 
 <img
   src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark"
-  alt="Database technologies"
+  alt="MySQL and PostgreSQL"
 />
 
-<br>
-
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server">
-
-### Tools & Platforms
+<br><br>
 
 <img
-  src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,docker&theme=dark"
-  alt="Tools and platforms"
+  src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"
+  alt="Microsoft SQL Server"
+/>
+
+<br><br>
+
+### Development, Build & DevOps Tools
+
+<img
+  src="https://skillicons.dev/icons?i=git,github,docker,linux,windows,vscode,webpack&theme=dark"
+  alt="Development and DevOps tools"
+/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/Rollup-EC4A3F?style=for-the-badge&logo=rollupdotjs&logoColor=white"
+  alt="Rollup"
 />
 
 </div>
+
+<br>
+
+---
+
+<div align="center">
+
+## ⚔️ Knight Online Source Development
+
+<img
+  src="https://img.shields.io/badge/Knight%20Online-Source%20Developer-C0392B?style=for-the-badge"
+  alt="Knight Online Source Developer"
+/>
+
+<img
+  src="https://img.shields.io/badge/Game%20Server-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"
+  alt="C++ Game Server"
+/>
+
+<img
+  src="https://img.shields.io/badge/Database-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"
+  alt="SQL Server"
+/>
+
+<img
+  src="https://img.shields.io/badge/Launcher-Development-0D6E8A?style=for-the-badge&logo=windows&logoColor=white"
+  alt="Launcher Development"
+/>
+
+<br><br>
+
+⚔️ Server source code development and customization
+
+🎮 Game mechanics, events, quests, items, drops, and upgrade systems
+
+🗄️ Database editing, migration, comparison, and optimization
+
+🚀 Launcher, patch, update, and version-control systems
+
+🛡️ Guard, security, and anti-cheat integrations
+
+🔧 Client tools, server files, editors, and custom utilities
+
+📊 Experience, drop, anvil, item, and character balancing
+
+</div>
+
+<br>
 
 ---
 
@@ -114,14 +231,14 @@ I develop web applications, backend systems, database-driven platforms, and game
 
 <img
   width="48%"
-  src="https://github-readme-stats.vercel.app/api?username=halilcanakcay&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=halilcanakcay&show_icons=true&hide_border=true&bg_color=071A2B&title_color=18A999&icon_color=18A999&text_color=FFFFFF&ring_color=0D6E8A&include_all_commits=true&count_private=true"
   alt="Halil's GitHub statistics"
 />
 
 <img
   width="48%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilcanakcay&layout=compact&hide_border=true&theme=tokyonight&langs_count=10"
-  alt="Most used languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilcanakcay&layout=compact&hide_border=true&bg_color=071A2B&title_color=18A999&text_color=FFFFFF&langs_count=10"
+  alt="Most used programming languages"
 />
 
 </div>
@@ -133,11 +250,13 @@ I develop web applications, backend systems, database-driven platforms, and game
 ## 🔥 Contribution Streak
 
 <img
-  src="https://streak-stats.demolab.com?user=halilcanakcay&theme=tokyonight&hide_border=true"
+  src="https://streak-stats.demolab.com?user=halilcanakcay&hide_border=true&background=071A2B&ring=18A999&fire=F39C12&currStreakLabel=18A999&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9FB3C8"
   alt="GitHub contribution streak"
 />
 
 </div>
+
+<br>
 
 ---
 
@@ -146,12 +265,14 @@ I develop web applications, backend systems, database-driven platforms, and game
 ## 📈 Contribution Activity
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=halilcanakcay&theme=tokyo-night&hide_border=true&area=true"
   width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=halilcanakcay&bg_color=071A2B&color=FFFFFF&line=18A999&point=F39C12&area=true&area_color=0D6E8A&hide_border=true"
   alt="GitHub contribution activity graph"
 />
 
 </div>
+
+<br>
 
 ---
 
@@ -160,11 +281,13 @@ I develop web applications, backend systems, database-driven platforms, and game
 ## 🏆 GitHub Achievements
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=halilcanakcay&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6"
-  alt="GitHub profile trophies"
+  src="https://github-profile-trophy.vercel.app/?username=halilcanakcay&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6"
+  alt="GitHub achievements"
 />
 
 </div>
+
+<br>
 
 ---
 
@@ -173,29 +296,38 @@ I develop web applications, backend systems, database-driven platforms, and game
 ## 🌐 Connect With Me
 
 <a href="https://github.com/halilcanakcay">
-  <img src="https://img.shields.io/badge/GitHub-halilcanakcay-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img
+    src="https://img.shields.io/badge/GitHub-halilcanakcay-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub profile"
+  />
 </a>
 
 <a href="https://halilcan.dev">
-  <img src="https://img.shields.io/badge/Website-halilcan.dev-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+  <img
+    src="https://img.shields.io/badge/Personal%20Website-halilcan.dev-0D6E8A?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Personal website"
+  />
 </a>
 
 <a href="https://www.guvenliyazilim.com">
-  <img src="https://img.shields.io/badge/Güvenli%20Yazılım-Website-339933?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Güvenli Yazılım">
+  <img
+    src="https://img.shields.io/badge/Güvenli%20Yazılım-Official%20Website-18A999?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Güvenli Yazılım website"
+  />
 </a>
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
-### 💡 Building secure web systems, scalable software, and custom game server technologies.
+### Building secure, scalable, and performance-focused software.
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=110&section=footer"
   width="100%"
-  alt="Footer"
+  src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:071A2B,50:0D6E8A,100:18A999&section=footer"
+  alt="Profile footer"
 />
 
 </div>
